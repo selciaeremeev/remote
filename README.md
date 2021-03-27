@@ -1,3 +1,2 @@
 # remote
-This repository is a script to get the TeamViewer ID and password.
-As a prerequisite, TeamViewer and WinAppDriver must be installed.
+This repository is POM for TeamViewer id and password.
